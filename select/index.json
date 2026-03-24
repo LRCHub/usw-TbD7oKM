@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "base_track": "博麗神社町内会音頭",
+  "base_artist": "IOSYS",
+  "createdAt": "2026-03-24T08:59:52.169597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "博麗神社町内会音頭",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/01_博麗神社町内会音頭_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "12.博麗神社町内会音頭",
+      "artist": "IOSYS (ARM×柏木るざりん / Vo.miko)",
+      "has_synced": true,
+      "path": "select/02_12.博麗神社町内会音頭_IOSYS_(ARM×柏木るざりん___Vo.miko).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "博麗神社町内会音頭",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/03_博麗神社町内会音頭_IOSYS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "博麗神社町内会音頭",
+      "artist": "イオシス",
+      "has_synced": true,
+      "path": "select/04_博麗神社町内会音頭_イオシス.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "博麗神社町内会音頭",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/05_博麗神社町内会音頭_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "博麗神社町内会音頭 (カラオケVer)",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/06_博麗神社町内会音頭_(カラオケVer)_IOSYS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "博麗神社町内会音頭 (Hakurei shrine neighborhood association Ondo)",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/07_博麗神社町内会音頭_(Hakurei_shrine_neighborhood_association_Ondo)_IOSYS.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "博麗神社町内会音頭",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/localdb_01_博麗神社町内会音頭_IOSYS.lrc",
+      "repo_name": "rg0Je6o8Kog"
+    }
+  ]
+}
